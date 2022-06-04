@@ -6,3 +6,6 @@
 ### Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=zmario34&show_icons=true&theme=dark)
+
+### Top Language (s?)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zMario34&show_icons=true&theme=dark)
