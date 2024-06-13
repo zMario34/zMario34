@@ -1,7 +1,8 @@
 ## 👋 Hello GitHub users! @zMario34
-- 🌱 I'm currently learning Java
+- 🌱 I'm a Java developer
+  🐳 I love microservices!
 - 💞️ Minecraft player since 2016
-- 📫 I'm open for commissions, for more info contact me on telegram (@JMerium) or Discord (@zMario)!
+- 📫 I'm open for commissions, for more info contact me on telegram (@JMirium) or Discord (@zMario)!
 
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=zmario34&theme=vue-dark&hide_border=true)
